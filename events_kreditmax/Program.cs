@@ -17,7 +17,7 @@ namespace events_kreditmax
 
             {
 
-                Console.WriteLine("Kredit overskredet");
+                Console.WriteLine("Kredit overskredet...");
 
             };
 
